@@ -1,6 +1,16 @@
-<h1>Black Jack Game</h1>
+<h1>Black Jack Game♠️♥️♣️♦️</h1>
 
 This game is made in python with <strong>150</strong> lines of code. It utilizes classess to have an orginzied codebase.
+
+<h3>Card Values</h3>
+
+-  1-10 equals there values.
+
+
+-  Jack, Queen, King all equal 10.
+
+
+-  Ace is 1 or 11.
 
 <h2>The game works like this</h2>
 
